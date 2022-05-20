@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @palakparikh213
 - 👀 I’m interested in web design and game development.
-- 🌱 I’m currently learning java, C++, HTML, javascript, and more. 
-- 💞️ I’m looking to collaborate on website design. 
+- 🌱 I’m currently learning frontend development and with a background in backend JAVA development. 
+- 💞️ I’m looking to collaborate on software engineering projects. 
 - 📫 How to reach me: email me @ palakparikh213@gmail.com
 
 <!---
